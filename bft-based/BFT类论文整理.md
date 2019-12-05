@@ -1,3 +1,5 @@
+# BFT类论文整理
+持续补充中...
 ### PBFT: Practical Byzantine Fault Tolerance
 ### Tendermint: Byzantine Fault Tolerance in the Age of Blockchains
 ### Zyzzyva: Speculative Byzantine Fault Tolerance Ramakrishna
