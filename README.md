@@ -1,8 +1,8 @@
 # blockchain
 collection for blockchain consensus
-# BFT-based
+## BFT-based
 
-# PoW-based
+## PoW-based
 
 
-# PoS-based
+## PoS-based
