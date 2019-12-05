@@ -1,5 +1,5 @@
 # blockchain
-collection for blockchain consensus
+collection for various blockchain consensuses
 ## BFT-based
 
 ## PoW-based
